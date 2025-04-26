@@ -1,0 +1,3 @@
+Cleaning,False
+Wash Dishes,False
+Read a book,False
